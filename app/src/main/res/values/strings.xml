@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">movie</string>
+    <string name="action_switch_layout">action_switch_layout</string>
+    <string name="detail_prefix">Best Movies of </string>
+    <string name="share_text">Name : $s  Year:   #Movies APP _by Karan</string>
+    <string name="more_details">More Details</string>
+    <string name="screen">screen</string>
+    <string name="action_search">action_search</string>
+</resources>
